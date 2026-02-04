@@ -1,0 +1,1 @@
+print("Tämä on moduuli 2 eka tehtävä.")
